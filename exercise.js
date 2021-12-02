@@ -15,3 +15,4 @@ function Book(bookTitle, bookAuthor, bookPages, bookRead) {
 const theHobbit = new Book("The Hobbit, ", "J. R. R. Tolkien, ", "304 pages, ", "Not read yet")
 
 console.log(theHobbit.info())
+
